@@ -1,0 +1,17 @@
+[33mcommit fa818a7e36e26ea8a6447e5cb98e7f1b50bc1ea2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: jesus alcala <185574729+Thedarknight-AI@users.noreply.github.com>
+Date:   Sun Jun 14 21:28:24 2026 +0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 38851b6811a0ccf00b6e619dbcd0a627c88d3934[m
+Author: jesus alcala <185574729+Thedarknight-AI@users.noreply.github.com>
+Date:   Sun Jun 14 21:11:50 2026 +0800
+
+    Add hello_world.txt
+
+[33mcommit 126afbe67a1c80951dcf25302cabe4c7daac348b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thedarknight-AI <185574729+Thedarknight-AI@users.noreply.github.com>
+Date:   Sun Jun 14 21:04:10 2026 +0800
+
+    Initial commit
